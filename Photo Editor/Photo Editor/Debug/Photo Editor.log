@@ -1,0 +1,25 @@
+﻿  Image.cpp
+E:\Study Content\Semesters\New folder\OOP\Project\Photo Editor\Photo Editor\Image.cpp(11,27): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+E:\Study Content\Semesters\New folder\OOP\Project\Photo Editor\Photo Editor\Image.cpp(13,30): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+E:\Study Content\Semesters\New folder\OOP\Project\Photo Editor\Photo Editor\Image.cpp(17,28): warning C4244: 'initializing': conversion from 'const __int64' to 'unsigned int', possible loss of data
+E:\Study Content\Semesters\New folder\OOP\Project\Photo Editor\Photo Editor\Image.cpp(20,31): warning C4244: 'initializing': conversion from 'const __int64' to 'unsigned int', possible loss of data
+E:\Study Content\Semesters\New folder\OOP\Project\Photo Editor\Photo Editor\Image.cpp(40,6): warning C4552: '-': result of expression not used
+E:\Study Content\Semesters\New folder\OOP\Project\Photo Editor\Photo Editor\Image.cpp(41,28): warning C4244: 'initializing': conversion from 'const __int64' to 'unsigned int', possible loss of data
+E:\Study Content\Semesters\New folder\OOP\Project\Photo Editor\Photo Editor\Image.cpp(44,31): warning C4244: 'initializing': conversion from 'const __int64' to 'unsigned int', possible loss of data
+E:\Study Content\Semesters\New folder\OOP\Project\Photo Editor\Photo Editor\Image.cpp(86,20): warning C4244: '=': conversion from '__int64' to 'unsigned char', possible loss of data
+E:\Study Content\Semesters\New folder\OOP\Project\Photo Editor\Photo Editor\Image.cpp(88,22): warning C4244: '=': conversion from '__int64' to 'unsigned char', possible loss of data
+E:\Study Content\Semesters\New folder\OOP\Project\Photo Editor\Photo Editor\Image.cpp(93,22): warning C4244: '=': conversion from '__int64' to 'unsigned char', possible loss of data
+E:\Study Content\Semesters\New folder\OOP\Project\Photo Editor\Photo Editor\Image.cpp(95,24): warning C4244: '=': conversion from '__int64' to 'unsigned char', possible loss of data
+E:\Study Content\Semesters\New folder\OOP\Project\Photo Editor\Photo Editor\Image.cpp(100,21): warning C4244: '=': conversion from '__int64' to 'unsigned char', possible loss of data
+E:\Study Content\Semesters\New folder\OOP\Project\Photo Editor\Photo Editor\Image.cpp(102,23): warning C4244: '=': conversion from '__int64' to 'unsigned char', possible loss of data
+E:\Study Content\Semesters\New folder\OOP\Project\Photo Editor\Photo Editor\Image.cpp(187,51): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+E:\Study Content\Semesters\New folder\OOP\Project\Photo Editor\Photo Editor\Image.cpp(188,52): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+E:\Study Content\Semesters\New folder\OOP\Project\Photo Editor\Photo Editor\Image.cpp(189,50): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+E:\Study Content\Semesters\New folder\OOP\Project\Photo Editor\Photo Editor\Image.cpp(464,51): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+E:\Study Content\Semesters\New folder\OOP\Project\Photo Editor\Photo Editor\Image.cpp(465,52): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+E:\Study Content\Semesters\New folder\OOP\Project\Photo Editor\Photo Editor\Image.cpp(466,50): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+E:\Study Content\Semesters\New folder\OOP\Project\Photo Editor\Photo Editor\Image.cpp(522,15): warning C4244: '=': conversion from '__int64' to 'unsigned char', possible loss of data
+E:\Study Content\Semesters\New folder\OOP\Project\Photo Editor\Photo Editor\Image.cpp(523,22): warning C4244: '=': conversion from '__int64' to 'unsigned char', possible loss of data
+  Main.cpp
+  Generating Code...
+  Photo Editor.vcxproj -> E:\Study Content\Semesters\New folder\OOP\Project\Photo Editor\Debug\Photo Editor.exe
